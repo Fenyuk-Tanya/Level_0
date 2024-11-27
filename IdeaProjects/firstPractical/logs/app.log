@@ -1,0 +1,686 @@
+2024-11-05 20:11:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-05 20:11:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-05 20:11:56 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-05 20:11:56 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-05 20:11:56 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-05 20:11:57 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-05 20:11:57 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-05 20:28:40 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-05 20:28:40 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-05 20:28:41 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-05 20:28:41 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-05 20:28:41 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-05 20:28:41 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-05 20:28:41 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-06 11:30:06 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-06 11:30:06 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-06 11:30:06 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-06 11:30:06 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-06 11:30:06 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-06 11:30:07 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-06 11:30:07 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-06 11:39:41 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-06 11:39:41 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-06 11:39:41 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-06 11:39:41 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-06 11:39:41 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-06 11:39:42 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-06 11:39:42 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-06 11:40:04 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-06 11:40:04 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-06 11:40:04 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-06 11:40:04 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-06 11:40:04 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-06 11:40:05 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-06 11:40:05 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-16 18:51:29 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-16 18:51:29 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-16 18:51:29 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-16 18:51:29 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-16 18:51:29 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-16 18:51:29 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-16 18:51:29 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-19 20:30:49 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-19 20:30:49 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-19 20:30:49 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-19 20:30:49 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-19 20:30:49 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-19 20:30:49 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-19 20:30:49 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-20 12:27:15 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-20 12:27:15 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-20 12:27:15 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-20 12:27:15 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-20 12:27:15 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-20 12:27:15 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-20 12:27:15 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 11:11:47 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:11:47 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:11:47 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-21 11:12:54 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:12:54 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:12:54 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:168)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:123)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:62)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:28)
+2024-11-21 11:12:54 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-21 11:13:11 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:13:11 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:13:11 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 11:13:11 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 11:13:11 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 11:13:11 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 11:13:11 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 11:13:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:13:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:13:56 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 11:13:56 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 11:13:56 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 11:13:56 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 11:13:56 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 11:14:46 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:14:46 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:14:46 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 11:14:46 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 11:14:46 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 11:14:46 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 11:14:46 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 11:18:26 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:18:26 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:18:26 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:168)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:123)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:60)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:28)
+2024-11-21 11:18:26 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-21 11:19:06 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 11:19:06 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 11:19:06 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 11:19:06 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 11:19:06 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 11:19:07 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 11:19:07 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 12:56:46 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 12:56:46 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 12:56:46 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 12:56:46 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 12:56:46 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 12:56:46 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 12:56:46 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-21 20:55:03 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-21 20:55:03 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-21 20:55:03 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-21 20:55:03 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-21 20:55:03 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-21 20:55:03 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-21 20:55:03 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-22 12:57:04 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-22 12:57:04 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-22 12:57:04 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-22 12:57:04 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-22 12:57:04 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-22 12:57:04 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-22 12:57:04 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-22 14:35:30 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-22 14:35:30 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-22 14:35:30 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:59)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-22 14:35:30 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-22 18:07:11 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-22 18:07:11 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-22 18:07:11 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-22 18:07:11 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-22 18:07:11 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-22 18:07:11 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-22 18:07:11 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-22 18:34:06 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-22 18:34:06 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-22 18:34:06 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:61)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-22 18:34:06 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-22 18:46:09 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-22 18:46:09 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-22 18:46:09 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-22 18:46:09 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-22 18:46:09 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-22 18:46:09 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-22 18:46:09 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-23 16:16:41 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-23 16:16:41 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-23 16:16:41 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:59)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-23 16:16:41 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-23 16:16:51 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-23 16:16:51 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-23 16:16:51 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-23 16:16:51 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-23 16:16:51 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-23 16:16:51 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-23 16:16:51 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-23 21:24:52 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-23 21:24:52 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-23 21:24:52 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-23 21:24:52 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-23 21:24:52 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-23 21:24:52 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-23 21:24:52 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 10:56:45 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 10:56:45 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 10:56:45 [main] ERROR com.fenuik.GreetingApp - Sorry, unable to find application.properties
+2024-11-24 10:56:45 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-24 11:04:01 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:04:01 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:04:01 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:60)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:28)
+2024-11-24 11:04:01 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-24 11:04:57 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:04:57 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:04:57 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-24 11:04:57 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 11:04:57 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 11:04:58 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 11:04:58 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 11:05:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:05:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:05:56 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-24 11:05:56 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 11:05:56 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 11:05:56 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 11:05:56 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 11:08:33 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:08:33 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:08:33 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-24 11:08:33 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 11:08:33 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 11:08:34 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 11:08:34 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 11:09:10 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:09:10 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:09:10 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application' with UTF-8 encoding
+2024-11-24 11:09:10 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 11:09:10 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 11:09:10 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 11:09:10 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 11:33:23 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 11:33:23 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 11:33:23 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-24 11:33:23 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 11:33:23 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 11:33:24 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 11:33:24 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-24 21:27:37 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-24 21:27:37 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-24 21:27:37 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-24 21:27:37 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-24 21:27:37 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-24 21:27:37 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-24 21:27:37 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 11:48:12 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:48:12 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:48:12 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:48:12 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:49:55 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:49:55 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:49:55 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:49:55 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:52:54 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:52:54 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:52:54 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:52:54 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:53:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:53:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:53:59 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:53:59 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:56:07 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:56:07 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:56:07 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:56:07 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:57:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:57:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:57:56 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:57:56 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:58:22 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:58:22 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:58:22 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:58:22 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:58:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:58:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:58:59 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:58:59 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 11:59:29 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 11:59:29 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 11:59:29 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 11:59:29 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:13:24 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:13:24 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:13:24 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:13:24 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:21:41 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:21:41 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:21:41 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:21:41 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:23:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:23:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:23:59 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:23:59 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:28:58 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:28:58 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:28:58 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:28:58 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:29:27 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:29:27 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:29:27 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:29:27 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:41:47 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:41:47 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:41:47 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 12:41:47 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:41:47 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 12:41:47 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 12:41:47 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 12:41:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:41:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:41:56 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 12:41:56 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:41:56 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 12:41:56 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 12:41:56 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 12:42:41 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:42:41 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:42:41 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 12:42:41 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:42:41 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 12:42:41 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 12:42:41 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 12:43:42 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:43:42 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:43:42 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 12:43:42 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:43:42 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 12:43:42 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 12:43:42 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 12:44:46 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:44:46 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:44:46 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:44:46 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:47:25 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:47:25 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:47:25 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 12:47:25 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:47:25 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 12:47:25 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 12:47:25 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 12:49:28 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:49:28 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:49:28 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 12:49:28 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 12:55:12 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 12:55:12 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 12:55:12 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 12:55:12 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 12:55:12 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 12:55:12 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 12:55:12 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:01:12 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:01:12 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:01:12 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:01:12 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:01:12 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:01:12 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:01:12 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:01:27 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:01:27 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:01:27 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:01:27 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:01:27 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:01:27 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:01:27 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:05:17 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:05:17 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:05:17 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:05:17 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:05:43 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:05:44 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:05:44 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:05:44 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:05:44 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:05:44 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:05:44 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:06:28 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:06:28 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:06:28 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:06:28 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:06:28 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:06:28 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:06:28 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:09:16 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:09:16 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:09:16 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:09:16 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:09:16 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:09:16 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:09:16 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:09:42 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:09:42 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:09:42 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:09:42 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:09:42 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:09:42 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:09:42 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:15:12 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:15:12 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:15:12 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:15:12 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:15:32 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:15:32 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:15:32 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:15:32 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:15:53 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:15:53 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:15:53 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:15:53 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:15:53 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:15:53 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:15:53 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:24:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:24:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:24:59 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:24:59 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:24:59 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:24:59 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:24:59 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:25:19 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:25:19 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:25:19 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:25:19 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:25:19 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:25:19 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:25:19 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:30:10 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:30:10 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:30:10 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:30:10 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:30:10 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:30:10 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:30:10 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:30:16 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:30:16 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:30:16 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:30:16 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:30:16 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:30:16 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:30:16 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:31:10 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:31:10 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:31:10 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:31:10 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:31:10 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:31:11 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:31:11 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:31:39 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:31:39 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:31:39 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:31:39 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:31:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:31:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:31:59 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file:
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:31:59 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:37:20 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:37:20 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:37:20 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:37:20 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:37:20 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:37:20 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:37:20 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:40:59 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:40:59 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:40:59 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:40:59 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:40:59 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:40:59 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:40:59 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:41:17 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:41:17 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:41:17 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:41:17 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:44:11 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:44:11 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:44:11 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:44:11 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:44:11 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:44:12 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:44:12 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:44:23 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:44:23 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:44:23 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:44:23 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:45:20 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:45:20 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:45:20 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 13:45:20 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 13:46:16 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:46:16 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:46:16 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:46:16 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:46:16 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Миша
+2024-11-25 13:46:17 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Миша!"}
+2024-11-25 13:46:17 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:46:57 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:46:57 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:46:57 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:46:57 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:46:57 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Миша
+2024-11-25 13:46:57 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Миша!"}
+2024-11-25 13:46:57 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:47:09 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:47:09 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:47:09 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:47:09 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:47:09 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:47:10 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:47:10 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:48:34 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:48:34 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:48:34 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:48:34 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:48:34 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:48:34 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:48:34 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:48:48 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:48:48 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:48:48 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:48:48 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:48:48 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:48:48 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:48:48 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:49:04 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:49:04 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:49:04 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:49:04 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:49:04 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:49:04 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:49:04 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:52:32 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:52:32 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:52:32 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 13:52:32 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:52:32 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:52:32 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:52:32 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:58:28 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:58:28 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:58:28 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:58:28 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:58:28 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 13:58:28 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 13:58:28 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 13:58:50 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 13:58:50 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 13:58:50 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'config/application.properties' with UTF-8 encoding
+2024-11-25 13:58:50 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 13:58:50 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Маша
+2024-11-25 13:58:50 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Маша!"}
+2024-11-25 13:58:50 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 14:45:55 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 14:45:55 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 14:45:55 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 14:45:55 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 14:48:50 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 14:48:50 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 14:48:50 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 14:48:50 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 14:52:56 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 14:52:56 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 14:52:56 [main] ERROR com.fenuik.GreetingApp - An error occurred while reading the properties file: 
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+	at com.fenuik.GreetingApp.getUserName(GreetingApp.java:58)
+	at com.fenuik.GreetingApp.main(GreetingApp.java:27)
+2024-11-25 14:52:56 [main] ERROR com.fenuik.GreetingApp - The user name is null
+2024-11-25 15:12:25 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 15:12:25 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 15:12:25 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 15:12:25 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 15:12:25 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 15:12:26 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 15:12:26 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 15:15:46 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 15:15:46 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 15:15:46 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 15:15:46 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 15:15:46 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 15:15:46 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 15:15:46 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 16:11:57 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 16:11:57 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 16:11:57 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 16:11:57 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 16:11:57 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 16:11:57 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 16:11:57 [main] INFO  com.fenuik.GreetingApp - The program has ended
+2024-11-25 16:13:37 [main] INFO  com.fenuik.GreetingApp - The program is running
+2024-11-25 16:13:37 [main] DEBUG com.fenuik.GreetingApp - Output format is set to: json
+2024-11-25 16:13:37 [main] DEBUG com.fenuik.GreetingApp - Attempting to load properties from file 'application.properties' with UTF-8 encoding
+2024-11-25 16:13:37 [main] INFO  com.fenuik.GreetingApp - Properties loaded successfully from file
+2024-11-25 16:13:37 [main] DEBUG com.fenuik.GreetingApp - Username retrieved from properties file: Таня
+2024-11-25 16:13:37 [main] INFO  com.fenuik.GreetingApp - Output in JSON format: {"message":"Привіт Таня!"}
+2024-11-25 16:13:37 [main] INFO  com.fenuik.GreetingApp - The program has ended
